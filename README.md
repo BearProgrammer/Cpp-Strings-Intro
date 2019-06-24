@@ -1,2 +1,2 @@
 # Cpp-Strings-Intro
-Introduction to strings in c++
+Introduction to strings in C++
